@@ -1,0 +1,47 @@
+h1 {
+  font-family: 'Press Start 2P';
+  font-size: 45px;
+}
+h3 {
+  font-family: 'Press Start 2P';
+  font-size: 25px;
+}
+.header {
+  margin-top: 4%;
+}
+.input {
+  text-align: center;
+}
+.pokemon-input {
+  width: 40%;
+  margin-top: 50px;
+  padding: 15px;
+  font-size: 12px;
+  font-family: 'Press Start 2P';
+  border-radius: 20px;
+}
+.pokemon-input:focus {
+  border-radius: 20px;
+}
+.submitButton {
+  width: 400px;
+  margin-top: 20px;
+  font-size: 23px;
+  -webkit-appearance: button;
+  border-radius: 25px;
+  background-color: #ffffff;
+  font-family: 'Press Start 2P';
+  padding: 14px 0px;
+  transition: color 0.2s ease;
+  transition: background-color 0.2s ease;
+}
+.submitButton:hover {
+  background-color: #6DFDB4;  
+  color: #ffffff;
+}
+#pokemon {
+  text-align: center;
+  font-family: 'Press Start 2P';
+  font-size: 15px;
+}
+
